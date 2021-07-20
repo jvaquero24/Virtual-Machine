@@ -4,9 +4,9 @@ variable "resource_group_name" {
 variable "location" {
   type        = string
 }
-variable "name_Service_Plan" {
+variable "name_nic" {
   type        = string
 }
-variable "name_web_app" {
+variable "name_vm_windows_2019" {
   type        = string
 }
